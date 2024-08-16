@@ -1,0 +1,8 @@
+# Ignore specific large files by path
+archive/2022/heart_2022_with_nans.csv
+
+# Optionally ignore all CSV files if needed
+*.csv
+
+# Optionally ignore specific directories
+/archive/
