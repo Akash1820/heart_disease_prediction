@@ -14,7 +14,7 @@ from sklearn.preprocessing import LabelEncoder
 import gdown
 
 
-@st.cache_data
+
 
 def load_data():
     try:
